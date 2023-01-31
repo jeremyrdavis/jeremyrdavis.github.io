@@ -1,2 +1,0 @@
-# jeremyrdavis.github.io
-Blog
