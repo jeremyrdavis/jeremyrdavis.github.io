@@ -20,7 +20,7 @@ featured_image: /images/social.jpg
 				<td>Artist</td>
 			</thead>
 			<tbody>
-				{% for album in week.albums %}
+				{% for album in date.albums %}
 				<tr>
 					<td>{{album.title}}</td><td>{{ album.artist }}</td>
 				</tr>			
