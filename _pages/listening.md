@@ -12,8 +12,8 @@ featured_image: /images/social.jpg
 		<h1>{{ page.title }}</h1>
 		<p class="subtitle">{{ page.subtitle }}</p>
 
-		{% for week in site.data.streaming %}
-		<h3>Week of: {{ week.date }}</h3>
+		{% for date in site.data.streaming %}
+		<h3>Week of: {{ date }}</h3>
 		<table>
 			<thead>
 				<td>Album</td>
