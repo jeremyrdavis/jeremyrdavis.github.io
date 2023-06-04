@@ -1,3 +1,24 @@
+- date: 2023-05-29
+  albums:
+    - title: Louder Than Bombs
+      artist: The Smiths
+    - title: Hatful of Hollow
+      artist: The Smiths
+    - title: The Queen is Dead
+      artist: The Smiths
+    - title: Strangeways Here We Come
+      artist: The Smiths
+    - title : The Sound of the Soul
+      artist: Dbashsish Bhattacharya
+    - title : Aladdin Sane
+      artist: David Bowie
+    - title : The Best of Tallis
+      artist : Jeremy Summerly
+    - title : Improvised Music New York 1981
+      artist : Derek Bailey, Fred Frith, Sonny Sharrock, John Zorn, Bill Laswell, Charles K. Noyes
+    - title : Dark Side of the Moon
+      artist : Pink Floyd
+
 - date: 2023-01-23
   albums:
     - title: You Had It Coming
