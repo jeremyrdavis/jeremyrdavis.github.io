@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Blog'
       url: '/blog'
     - title: 'Listening'
-      url: '/listening/'
+      url: '/listening'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
