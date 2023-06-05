@@ -10,17 +10,15 @@ featured_image: /images/social.jpg
 	<div class="wrap">
 
 		<h1>{{ page.title }}</h1>
-		<p class="subtitle">{{ page.subtitle }}</p>
-
-		{% for date in site.data.streaming %}
-		<h3>Week of: {{ date | date: "%B %-d %Y" }}</h3>
+		{% for week in site.data.streaming %}
+		<h3>Week of: {{ week.date | date: "%B %-d %Y" }}</h3>
 		<table>
 			<thead>
 				<td>Album</td>
 				<td>Artist</td>
 			</thead>
 			<tbody>
-				{% for album in date.albums %}
+				{% for album in week.albums %}
 				<tr>
 					<td>{{album.title}}</td><td>{{ album.artist }}</td>
 				</tr>			

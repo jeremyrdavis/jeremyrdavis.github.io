@@ -1,4 +1,5 @@
-- date: 2023-05-29
+- week:
+  date: 2023-05-29
   albums:
     - title: Louder Than Bombs
       artist: The Smiths
@@ -19,7 +20,8 @@
     - title : Dark Side of the Moon
       artist : Pink Floyd
 
-- date: 2023-01-23
+- week:
+  date: 2023-01-23
   albums:
     - title: You Had It Coming
       artist: Jeff Beck
