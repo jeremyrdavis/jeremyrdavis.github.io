@@ -1,9 +1,9 @@
 ---
-title: 'Quarkus Dev Mode Can't Find Docker'
-subtitle: 'Previous attempts to find a Docker environment failed. Will not retry.'
+title: Quarkus Dev Mode Can't Find Docker
+subtitle: /var/run/docker.sock disappeared
 date: 2023-06-04 00:00:00
-excerpt: All of a sudden Quarkus can't find Docker or Podman
-tags: Quarkus, development, troubleshooting, debugging
+excerpt: All of a sudden Quarkus can't find Docker or Podman.
+tags: quarkus, development, debugging, troubleshooting
 ---
 
 #### tl;dr
@@ -12,7 +12,7 @@ tags: Quarkus, development, troubleshooting, debugging
 
 ####  Quarkus Dev Mode Couldn't Find Docker
 
-I created a project with Quarkus 3.1.0.Final, which had just dropped, fired up dev mode and got a stack trace (see below.)
+All of a sudden Quarkus can't find Docker or Podman.  I created a project with Quarkus 3.1.0.Final, which had just dropped, fired up dev mode and got a stack trace (see below.)
 
 I didn't find much searching for the error so I checked Docker Desktop's Settings.  In Settings -> Advanced there is a checkbox to enable the creation of /var/run/docker.sock so that other apps can connect.  The box was checked, but 
 "ls -a /var/run | grep docker" didn't show a docker.sock.  Turning off the permission, restarting, turning it back on, and restarting fixed it.
