@@ -1,4 +1,28 @@
 - week:
+  date: 3023-07-10
+  albums:
+    - title: Blank Generation
+      artist: Richard Hell & the Voidoids
+    - title: Caballeros del Albedrio
+      artist: Austin TV
+    - title: Wild & Precious Life
+      artist: Duane Betts
+    - title: Brothers and Sisters
+      artist: The Allman Brothers Band
+    - title: Zappa '80 Mudd Club/Munich
+      artist: Frank Zappa
+- week:
+  date: 3023-07-03
+  albums:
+    - title: Ooh La La
+      artist: Faces
+    - title: In Times New Roman...
+      artist: Queens of the Stone Age
+    - title: This Nation's Saving Grace
+      artist: The Fall
+    - title: Low Symphony, from the Music of David Bowie & Brian Eno
+      artist: Philip Glass/David Russell Davies & The Brooklyn Philharmonic
+- week:
   date: 2023-05-29
   albums:
     - title: Louder Than Bombs
