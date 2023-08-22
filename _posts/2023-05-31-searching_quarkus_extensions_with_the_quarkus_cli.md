@@ -1,7 +1,7 @@
 ---
 title: 'Searching Quarkus Extensions with the Quarkus CLI'
 subtitle: 'Hopefully writing this down will make it easier for me to remember the commands'
-date: 2023-05-31 00:00:00
+date: 2023-05-31
 excerpt: When using the Quarkus CLI to search for extensions while inside a project directory run, "quarkus ext list -i -s [FUNCTION NAME]"
 ---
 

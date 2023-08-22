@@ -1,5 +1,37 @@
 - week:
-  date: 3023-07-10
+  date: 2023-08-13
+  albums:
+    - title: The Roxy Performances (Live)
+      artist: Frank Zappa
+    - title: Mogwai
+      artist: Zidane - A 21st Century Portrait
+    - title: Mogwai
+      artist: As the Love Continues
+    - title: Crosby, Stills & Nash
+      artist: Crosby, Stills & Nash
+    - title: Stephen Stills
+      artist: Stephen Stills
+    - title: Joni Mitchell
+      artist: Ladies of the Canyon
+    - title: Joni Mitchell
+      artist: Clouds
+- week:
+  date: 2023-08-06
+  albums:
+    - title: The Ballad of Darren
+      artist: Blur
+    - title: The Grateful Dead
+      artist: "Europe '72 Vol. 14: Concertgebouw, Amsterdam"
+    - title: Peace... Like a River
+      artist: Gov't Mule
+    - title: Van Halen
+      artist: 1984
+    - title: Pulp
+      artist: Different Class
+    - title: The Essential Inspector Morse Collection
+      artist: Barrington Pheloung
+- week:
+  date: 2023-07-10
   albums:
     - title: Blank Generation
       artist: Richard Hell & the Voidoids
@@ -12,7 +44,7 @@
     - title: Zappa '80 Mudd Club/Munich
       artist: Frank Zappa
 - week:
-  date: 3023-07-03
+  date: 2023-07-03
   albums:
     - title: Ooh La La
       artist: Faces

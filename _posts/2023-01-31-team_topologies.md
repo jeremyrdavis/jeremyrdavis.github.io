@@ -1,7 +1,7 @@
 ---
 title: 'Team Topologies Book Review'
 subtitle: 'Team Topologies: Organizing Business and Technology Teams for Fast Flow'
-date: 2023-01-31 00:00:00
+date: 2023-01-31
 excerpt: An excellent examination of how organizational structure can enable or inhibit software teams
 tags: books, culture
 ---

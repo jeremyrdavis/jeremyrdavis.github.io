@@ -1,7 +1,7 @@
 ---
 title: 'Software Architecture: the Hard Parts Book Review'
 subtitle: 'Modern Trade-Off Analysis for Distributed Architectures'
-date: 2023-01-09 00:00:00
+date: 2023-01-09
 excerpt: I enjoyed and wholeheartedly recommend this book by a collection of Thoughtworks Architects
 tags: books, architecture
 ---

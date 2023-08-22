@@ -1,7 +1,7 @@
 ---
 title: Quarkus Dev Mode Can't Find Docker
 subtitle: /var/run/docker.sock disappeared
-date: 2023-06-04 00:00:00
+date: 2023-06-04
 excerpt: All of a sudden Quarkus can't find Docker or Podman.
 tags: quarkus, development, debugging, troubleshooting
 ---

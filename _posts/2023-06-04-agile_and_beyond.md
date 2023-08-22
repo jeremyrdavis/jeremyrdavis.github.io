@@ -1,7 +1,7 @@
 ---
 title: 'Agile&Beyond 2023'
 subtitle: 'Join the &lt;dev/&gt;olution Apr 4-6 2023, Atlanta, GA'
-date: 2023-06-04 00:00:00
+date: 2023-06-04
 excerpt: I will be presenting at <a href="https://www.agileandbeyond.com" target="_blank" >Agile and Beyond</a> next week.
 tags: speaking, conferences
 ---
