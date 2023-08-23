@@ -1,4 +1,11 @@
 - week:
+  date: 2023-08-21
+  albums:
+   - title: Blues Without You
+     artist: Larry McCray
+   - title: Tokyo Dome Live in Concert
+     artist: Van Halen
+- week:
   date: 2023-08-13
   albums:
     - title: The Roxy Performances (Live)
