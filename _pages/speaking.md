@@ -56,3 +56,20 @@ Red Hat Summit
 Oracle Code One <br/>
 QCon NYC <br/>
 Red Hat Microservices Day <br/>
+
+#### 2015
+
+Red Hat Summit <br/>
+
+#### 2014
+
+DevNation <br/>
+
+#### 2013
+
+Red Hat Summit <br/>
+
+#### 2012
+
+JBoss World <br/>
+Red Hat Summit <br/>
