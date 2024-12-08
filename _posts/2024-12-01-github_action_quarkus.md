@@ -1,5 +1,5 @@
 ---
-title: 'GitHub Action for Quarkus'
+title: 'A GitHub Action for Quarkus'
 subtitle: 'A GitHub Action that builds your app as a container and pushes it to Docker'
 date: 2024-12-01
 excerpt: A GitHub Action that builds a Quarkus app, creates a container, and pushes to Dockerhub

@@ -7,6 +7,12 @@ featured_image: /images/social.jpg
 
 ### Speaking Engagements
 
+#### 2025 
+
+[Boston Java Users' Group](https://www.meetup.com/boston-java/), January 9th <br/>
+[Devnexus](https://devnexus.com), March 4-6 <br/>
+[St. Louis Java Users' Group](https://www.meetup.com/gatewayjug/), March 13th
+
 #### 2024
 
 Devnexus <br/>
