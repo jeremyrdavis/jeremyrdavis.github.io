@@ -1,4 +1,19 @@
 - week:
+  date: 2024-12-01
+  albums:
+   - title: Six String Santa
+     artist: Joe Pass
+   - title: I Dream of Christmas
+     artist: Norah Jones
+   - title: Christmas with Nat King Cole
+     artist: Nat King Cole
+   - title: Be All Merry
+     artist: The Choral Scholars of University College Dublin, Irish Chamber Orchestra
+   - title: "Alpha & O: Music for Advent and Christmas"
+     artist: The Choirs of St Catharine's College, Cambridge/Edward Wickham
+   - title: Chanticleer Sings Christmas
+     artist: Chanticleer
+- week:
   date: 2024-06-08
   albums:
    - title: "Pergolesi: Stabat Mater, Laudate pueri & Confitebor"
