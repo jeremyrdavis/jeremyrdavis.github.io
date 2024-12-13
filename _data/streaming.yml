@@ -1,73 +1,75 @@
 - week:
   date: 2024-12-08
   albums:
-   - title: Puer Natus Est - Tudor Music for Advent and Christmas
-     artist: Stile Antico
-   - title: Christmas Cookin'
-     artist: Jimmy Smith
+    - title: Puer Natus Est - Tudor Music for Advent and Christmas
+      artist: Stile Antico
+    - title: Christmas Cookin'
+      artist: Jimmy Smith
+    - title: "Handel: Messiah"
+      artist: Academy of St. Martin in the Fields, Sir Neville Marriner
 - week:
   date: 2024-12-01
   albums:
-   - title: Six String Santa
-     artist: Joe Pass
-   - title: I Dream of Christmas
-     artist: Norah Jones
-   - title: Christmas with Nat King Cole
-     artist: Nat King Cole
-   - title: Be All Merry
-     artist: The Choral Scholars of University College Dublin, Irish Chamber Orchestra
-   - title: "Alpha & O: Music for Advent and Christmas"
-     artist: The Choirs of St Catharine's College, Cambridge/Edward Wickham
-   - title: Chanticleer Sings Christmas
-     artist: Chanticleer
+    - title: Six String Santa
+      artist: Joe Pass
+    - title: I Dream of Christmas
+      artist: Norah Jones
+    - title: Christmas with Nat King Cole
+      artist: Nat King Cole
+    - title: Be All Merry
+      artist: The Choral Scholars of University College Dublin, Irish Chamber Orchestra
+    - title: "Alpha & O: Music for Advent and Christmas"
+      artist: The Choirs of St Catharine's College, Cambridge/Edward Wickham
+    - title: Chanticleer Sings Christmas
+      artist: Chanticleer
 - week:
   date: 2024-11-24
   albums:
-   - title: Works for Me
-     artist: John Scofield
-   - title: A Go Go
-     artist: John Scofield
-   - title: Blues
-     artist: Greg Koch
-   - title: Swallow Tales
-     artist: John Scofield, Bill Stewart & Steve Swallow 
+    - title: Works for Me
+      artist: John Scofield
+    - title: A Go Go
+      artist: John Scofield
+    - title: Blues
+      artist: Greg Koch
+    - title: Swallow Tales
+      artist: John Scofield, Bill Stewart & Steve Swallow
 - week:
   date: 2024-06-08
   albums:
-   - title: "Pergolesi: Stabat Mater, Laudate pueri & Confitebor"
-     artist: Julia Lezhneva, Philippe Jaroussky & I Barocchisti
-   - title: Richard II
-     artist: Paul Englishby, Royal Shakespeare Company
-   - title: Completely Well
-     artist: B.B. King
-   - title: Walking the Strings
-     artist: Merle Travis
-   - title: Boulanger, Fauré, Hahn
-     artist: William Youn, Rundfunk-Sinfonieorchester Berlin & Valentin Uryupin
+    - title: "Pergolesi: Stabat Mater, Laudate pueri & Confitebor"
+      artist: Julia Lezhneva, Philippe Jaroussky & I Barocchisti
+    - title: Richard II
+      artist: Paul Englishby, Royal Shakespeare Company
+    - title: Completely Well
+      artist: B.B. King
+    - title: Walking the Strings
+      artist: Merle Travis
+    - title: Boulanger, Fauré, Hahn
+      artist: William Youn, Rundfunk-Sinfonieorchester Berlin & Valentin Uryupin
 - week:
   date: 2024-06-01
   albums:
-   - title: Exile on Main Street
-     artist: The Rolling Stones
-   - title: Beggars Banquet
-     artist: The Rolling Stones
-   - title: Let It Bleed
-     artist: The Rolling Stones
-   - title: "Tallis: Tudor Church Music I (Spem in alium) (Remastered 2015)"
-     artist: The Choir of King's College, Cambridge & Sir David Willcocks
-   - title: Blank Generation
-     artist: Richard Hell & The Voidoids 
+    - title: Exile on Main Street
+      artist: The Rolling Stones
+    - title: Beggars Banquet
+      artist: The Rolling Stones
+    - title: Let It Bleed
+      artist: The Rolling Stones
+    - title: "Tallis: Tudor Church Music I (Spem in alium) (Remastered 2015)"
+      artist: The Choir of King's College, Cambridge & Sir David Willcocks
+    - title: Blank Generation
+      artist: Richard Hell & The Voidoids
 - week:
   date: 2023-08-21
   albums:
-   - title: What Do You Mean It's Not Raining
-     artist: Affleks Palace
-   - title: Inevitable Western
-     artist: The Bad Plus
-   - title: Blues Without You
-     artist: Larry McCray
-   - title: Tokyo Dome Live in Concert
-     artist: Van Halen
+    - title: What Do You Mean It's Not Raining
+      artist: Affleks Palace
+    - title: Inevitable Western
+      artist: The Bad Plus
+    - title: Blues Without You
+      artist: Larry McCray
+    - title: Tokyo Dome Live in Concert
+      artist: Van Halen
 - week:
   date: 2023-08-13
   albums:
@@ -135,16 +137,16 @@
       artist: The Smiths
     - title: Strangeways Here We Come
       artist: The Smiths
-    - title : The Sound of the Soul
+    - title: The Sound of the Soul
       artist: Dbashsish Bhattacharya
-    - title : Aladdin Sane
+    - title: Aladdin Sane
       artist: David Bowie
-    - title : The Best of Tallis
-      artist : Jeremy Summerly
-    - title : Improvised Music New York 1981
-      artist : Derek Bailey, Fred Frith, Sonny Sharrock, John Zorn, Bill Laswell, Charles K. Noyes
-    - title : Dark Side of the Moon
-      artist : Pink Floyd
+    - title: The Best of Tallis
+      artist: Jeremy Summerly
+    - title: Improvised Music New York 1981
+      artist: Derek Bailey, Fred Frith, Sonny Sharrock, John Zorn, Bill Laswell, Charles K. Noyes
+    - title: Dark Side of the Moon
+      artist: Pink Floyd
 
 - week:
   date: 2023-01-23
